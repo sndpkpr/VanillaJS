@@ -1,1 +1,1 @@
-# vanilla-js setup
+# vanillaJs setup
